@@ -1,0 +1,14 @@
+## ignore
+.DS_Store
+node_modules
+dist
+.env
+.vscode
+coverage
+.idea           
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
